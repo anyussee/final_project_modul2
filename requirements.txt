@@ -1,0 +1,7 @@
+python-dotenv==1.2.2
+sqlalchemy==1.4.20
+phik==0.12.5
+pandas==1.2.4
+seaborn==0.11.1
+numpy==1.21.1
+matplotlib==3.3.4
